@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "19508613245EDE2A00660845"
-               BuildableName = "Ausbrechen.app"
-               BlueprintName = "Ausbrechen"
+               BuildableName = "Antiziganismus.app"
+               BlueprintName = "Antiziganismus"
                ReferencedContainer = "container:OneTrickPony.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,8 +45,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "19508613245EDE2A00660845"
-            BuildableName = "Ausbrechen.app"
-            BlueprintName = "Ausbrechen"
+            BuildableName = "Antiziganismus.app"
+            BlueprintName = "Antiziganismus"
             ReferencedContainer = "container:OneTrickPony.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -62,8 +62,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "19508613245EDE2A00660845"
-            BuildableName = "Ausbrechen.app"
-            BlueprintName = "Ausbrechen"
+            BuildableName = "Antiziganismus.app"
+            BlueprintName = "Antiziganismus"
             ReferencedContainer = "container:OneTrickPony.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
