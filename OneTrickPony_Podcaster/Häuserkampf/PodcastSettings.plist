@@ -5,9 +5,9 @@
 	<key>bigprogressbar</key>
 	<true/>
 	<key>feedurl</key>
-	<string>https://compendion.net/dirtyminutesleft/feed/m4a</string>
+	<string>http://www.tagesschau.de/export/podcast/tagesschau/</string>
 	<key>UserAgent</key>
-	<string>Dirty Minutes Left App</string>
+	<string>Ausbrechen App</string>
 	<key>cacheSize (MB)</key>
 	<integer>150</integer>
 	<key>backgroundColor</key>
